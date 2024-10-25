@@ -1,0 +1,2 @@
+# R730_idrac_fanspeed
+通过IPMI可以在linux系统上运行的Dell R730风扇自动调速脚本。
